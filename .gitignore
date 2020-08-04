@@ -1,0 +1,5 @@
+# Diretórios
+node_modules/
+
+# Aquivos
+package-lock.json

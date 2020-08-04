@@ -1,0 +1,22 @@
+{
+  "name": "curriculo-expresso",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FEH-SAMA/curriculo-expresso.git"
+  },
+  "author": "Feh's",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FEH-SAMA/curriculo-expresso/issues"
+  },
+  "homepage": "https://github.com/FEH-SAMA/curriculo-expresso#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
